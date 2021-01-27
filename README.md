@@ -48,7 +48,7 @@ User: Contiene la información de los usuarios del restaurante, id, usuario, pas
 ## Notas ##
 El proyecto ya tiene un archivo que cargará una data inicial en su base de datos
 
-### Cómo probarlo ###
+### ¿Cómo probarlo? ###
 
 - Click derecho en el proyecto
 - Run as -> Java Application
