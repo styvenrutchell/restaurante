@@ -56,7 +56,7 @@ El proyecto ya tiene un archivo que cargará una data inicial en su base de dato
 - Ingrese usuario y contraseña: user : 123456
 - Ingrese al endpoint POST /api/sales
 - Ingrese la información para registrar una venta. (Puede guiarse en la documentación donde está detalladamente cada campo que debe ingresar)
-      #Nota#
+      ## Nota ##
       Los productos con los que se carga la aplicación inicialmente son:
       1, sopa, 10000
       2, bandeja, 20000
