@@ -55,13 +55,13 @@ El proyecto ya tiene un archivo que cargará una data inicial en su base de dato
 - Desde su navegador ingrese a la dirección: http://localhost:8080/swagger-ui.html
 - Ingrese usuario y contraseña: user : 123456
 - Ingrese al endpoint POST /api/sales
-- Ingrese la información para registrar una venta. (Puede guiarse en la documentación donde está detalladamente cada campo que debe ingresar)
-      Los productos con los que se carga la aplicación inicialmente son:
-      1, sopa, 10000
-      2, bandeja, 20000
-      3, helado, 5000
-      4, jugo, 5000
-      Si lo desea una vez esté arriba la aplicación, puede ingresar más productos de forma manual en su base de datos.
+- Ingrese la información para registrar una venta. (Puede guiarse en la documentación donde está detalladamente cada campo que debe ingresar).
+      - Los productos con los que se carga la aplicación inicialmente son:
+      - 1, sopa, 10000
+      - 2, bandeja, 20000
+      - 3, helado, 5000
+      - 4, jugo, 5000 (id, name, price)
+      - Si lo desea una vez esté arriba la aplicación, puede ingresar más productos de forma manual en su base de datos.
 - Repita el paso anterior, pero modifique la fecha a una día anterior a la fecha actual. (Puede repetir estos dos últimos pasos las veces que quiera)
 - Ingrese al endpoint GET /api/sales y ejecutelo
 - Verifique que la lista de ventas retornadas correspondan unicamente a las que tienen fecha del día actual
